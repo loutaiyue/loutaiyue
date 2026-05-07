@@ -10,3 +10,6 @@
 
 <!-- 最常用语言卡片 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loutaiyue&layout=compact&theme=radical)
+
+<!-- 访问量计数器 -->
+![Profile Views](https://komarev.com/ghpvc/?username=loutaiyue&color=blue)
