@@ -4,3 +4,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loutaiyue/loutaiyue/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/loutaiyue/loutaiyue/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- 基础数据统计卡片 -->
+![Loutaiyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=loutaiyue&show_icons=true&theme=radical)
+
+<!-- 最常用语言卡片 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loutaiyue&layout=compact&theme=radical)
