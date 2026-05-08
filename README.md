@@ -14,4 +14,4 @@
 <!-- 访问量计数器 -->
 ![Profile Views](https://komarev.com/ghpvc/?username=loutaiyue&color=blue)
 
-<img src="path/to/your/animation.gif" alt="Description of the GIF" width="200">
+<img src="assets/mikuu.gif" alt="Description of the GIF" width="200">
