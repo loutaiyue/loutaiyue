@@ -29,9 +29,11 @@
 </div>
 
 ### `featured`
+<div align="center">
+  
+<img src="assets/mikuu.gif" alt="Description of the GIF" width="500">
 
-<img src="assets/mikuu.gif" alt="Description of the GIF" width="640">
-
+</div>
 <div align="center">
 
 <picture>
